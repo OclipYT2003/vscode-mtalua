@@ -25,6 +25,8 @@ number
 localPlayer
 root
 rootElement
+resourceRoot
+resourceName
 
 -- Server
 aclCreate()
